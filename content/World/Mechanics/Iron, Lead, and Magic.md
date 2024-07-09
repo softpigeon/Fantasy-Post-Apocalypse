@@ -1,0 +1,5 @@
+come up with how to represent Iron and Lead interact with magic mechanically.
+
+Lead should be fairly easy it should negate all magic cast on it, how this interacts with something only covered in lead but access to non lead part. Look into how called shots would work.
+
+Iron - most likely require a spellcasting roll to overcome the resistance of the metal. This would not be needed for spells against armoured combatants, mechanically it may hamper spellcasters too much? Plus can be argued the armour will be too thin and diluted (i.e. steel as opposed to pure iron) or incorporating enough non iron elements (or not at all in some cases) to justify the minimal resistance (maybe add a minor benefit to the defence rating against an offensive spell e.g. +1 defence against a spell attack if wearing iron/steel armour both for and against the party, consult the party.)

@@ -2,12 +2,12 @@ Spending time in an area of radioactive activity without protection incurs the r
 
 low level radiation (fully protected against by stable iodine pills) will start at TN 13 with each level incrementing the TN according to TN table (15 - 17 etc.), each hour within a level increases the TN to the next stage (staying in one level for 1 hour or more effectively counts as a new exposure of a level higher)
 
-### Effects
+## Effects
 
 Figure out the specific effects of radiation poisoning in case it becomes relevant.
 Severity increases over time and continued failed Constitution (Stamina) rolls.
 
-Each Stage last for a day after which a TN 17 Constitution (Stamina) Basic Check is required a failure increases the stage by 1 (2 if the stunt die is a 1) a success decreases the stage by (2 if the stunt die is a 6). 
+Each Stage last for a day after which a TN 15 Constitution (Stamina) Basic Check is required a failure increases the stage by 1 (2 if the stunt die is a 1) a success decreases the stage by (2 if the stunt die is a 6). 
 
 Proper treatment can either cure or reduce the stage for Stage 1 and 2. For Stages 3 and up the Treatment can halt further progress as indicated. Regardless of the stage treatment gives a +3 bonus to the roll. Treatment from an untrained healer can provided a +2 bonus but wont immediately lower or cure Stage 1 and 2, It will prevent progress to later stages for these stages and other indicated stages.
 
@@ -21,6 +21,6 @@ Proper treatment can either cure or reduce the stage for Stage 1 and 2. For Stag
 | 6     | as stage 5 plus Unconscious    | cannot halt progress to later stages                         |
 | 7     | Death                          |                                                              |
 
-### Attacks
+## Attacks
 
 Radiation based attacks will simply be handled like any other attack, however wearing a suit or having consumed stable iodine will provide some resistance (small resistance from pills big resistance from suit provided it's not damaged). The will not automatically give radiation poisoning unless the specific attack has the risk of contracting it. i.e. every attack will be on a case by case basis.

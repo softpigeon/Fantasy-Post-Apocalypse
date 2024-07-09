@@ -1,0 +1,7 @@
+Original School that started when Delta Junction formed as a new community after year 0. Grew to become a respected place of learning for the wider region and allowed the surrounding town to flourish into a stable city.
+
+It offers many subjects and there is no standard curriculum and the contents of  are chosen by the students with guidance of a mentor to help them supplement their learning. There is one learning path with a more structured curriculum and that is the magic school. The magic school acts more like an annex to the main school and students have to follow a core program learning the basics before branching out, they also partake in regular classes in the main school to help supplement their magic.
+
+While becoming a student is an expense few can afford some scholarships are offered yearly for particularly gifted or promising students, especially for the magic school where the expense and length of study is much greater. As well as this the school offers a basic course for anyone free of charge to allow anyone to learn, this covers reading and writing as well as basic maths and science.
+
+To supplement the schools income and try to keep tuition costs down the school also operates a shop providing basic stationary supplies and services, as well as a store specialising in magical supplies and items. (these run out of the same building but for accounting purposes they are separate businesses.)
